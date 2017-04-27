@@ -18,8 +18,10 @@ This program is free software but not open source. Use it at your own risk. (you
 
 (Obviously not affiliated in any way to Wargaming and World of Tanks).
 
-##Updates
+## Updates
+
 **04/27/2017**
+
 Program will now remain active if you make mistakes when entering skills and percentage.
 It will also allow you to restart the calculation without exiting.
 I won´t use UPX anymore to avoid AV false positives, so file size has increased.
